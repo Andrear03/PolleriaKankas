@@ -14,7 +14,9 @@ Diseñar e implementar el sistema que ayuda a la Pollería a no desperdiciar ins
 ## Diagramas
 
 ![Diagrama de Caso de Usos](img/casouso.png)
+
 ![Diagrama de Contexto](img/contexto.jpg)
+
 ![Diagrama de Clases](img/dcw.png)
 
 ## Capturas de pantalla
