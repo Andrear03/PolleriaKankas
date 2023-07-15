@@ -14,12 +14,14 @@ Design and implement a system that helps the poultry store to avoid wasting inpu
 ## Diagrams
 
 ![Use Case Diagram](img/casouso.png)
-![Context Diagram](img/context.jpg)
+
+![Context Diagram](img/contexto.jpg)
+
 ![Class Diagram](img/dcw.png)
 
 ## Screenshots
 
-![Screenshot 1](img/Capture.png)
+![Screenshot 1](img/Captura.png)
 
 ## Technologies used
 
