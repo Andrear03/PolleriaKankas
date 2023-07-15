@@ -1,0 +1,18 @@
+.progress {
+    display: flex;
+    height: 1rem;
+    overflow: hidden;
+    font-size: 0.75rem;
+    background-color: #343a40;
+    border-radius: 0.25rem;
+}
+.text-dash-color-1 {
+    color: #864dd9 !important;
+}
+
+.text-xxl {
+    font-size: 2.125rem;
+}
+.text-lg {
+    font-size: 1.3rem;
+}

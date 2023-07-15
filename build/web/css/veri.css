@@ -1,0 +1,46 @@
+h3 {
+  color: black;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  font-size: 1.7rem;
+  margin-right: 2em;
+}
+
+.align {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.form__field {
+  margin-bottom: 1.5em;
+}
+
+.form__input {
+  display: block;
+  width: 100%;
+  padding: 0.5em;
+  font-size: 1rem;
+  border: 2px solid #ccc;
+  border-radius: 0.25em;
+}
+
+input[type="submit"] {
+  display: block;
+  width: 100%;
+  padding: 0.5em;
+  font-size: 1rem;
+  color: white;
+  background-color: #007bff;
+  border: none;
+  border-radius: 0.25em;
+}
+
+.form__input:valid {
+  border-color: forestgreen;
+}
+
+.form__input:invalid {
+  border-color: firebrick;
+}

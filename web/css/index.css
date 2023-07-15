@@ -1,0 +1,39 @@
+.fa-unlock-alt{
+    color:#8a8d93;
+  }
+
+  .cardsss{
+    text-align: center;
+    padding: 20px;
+  }
+  i.iconocrud{
+  font-size: 35px;
+  }
+   
+  .section-title{
+    padding: 20px;
+  }
+  
+  .nuevo a{
+    color: #ffffff;
+    margin: 4px;
+    float: left;
+    font-size: 14px;
+    cursor: pointer;
+    padding: 3px 10px 3px 3px;
+    background: #324469;
+    border-radius: 10px;
+  }
+  
+  .brand-text{
+    font-size: 30px;
+  }
+  .cartext{
+    color: #ffffff;
+    text-decoration: none;
+  }
+  .cartext:hover{
+    color: #000000;
+    text-decoration: none;
+    transition: 0.9s ;
+  }
