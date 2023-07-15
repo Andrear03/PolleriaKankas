@@ -1,27 +1,25 @@
 # Kankas - Pollería
 
-![Logo de Kankas](https://drive.google.com/file/d/1nJEyg-z-wMD8-ElcT2USXJM4l0X9WiXy/view?usp=sharing)
-
 ## Descripción del proyecto
 
 Diseñar e implementar el sistema que ayuda a la Pollería a no desperdiciar insumos evitando perder ganancias y haciendo más productivo el proceso.  Diseñar e implementar un sistema que se encargue de optimizar las tareas de entradas y salidas e inventario de los productos para el encargado del almacén, optimizando las tareas del gerente cuyas funciones tiene que gestionar los usuarios, proveedores y la toma de decisiones con respecto a los informes generados y a optimizar las tareas del área de cocina ya que ingresa al sistema a solicitar todos los productos faltantes. Ahorrando la intervención de un personal que sea intermediario entre estas acciones en la pollería Kankas”.
 
 ## Funcionalidades
 
-- Menú completo de platos de pollo asado y acompañamientos.
-- Sistema de pedidos en línea.
-- Opciones de entrega y recogida en tienda.
-- Catálogo de promociones y ofertas especiales.
+- CRUD de los casos de uso
+- Envio de pedidos.
+- Verificacion doble paso.
+- Estadisticas del almacen.
 
 ## Diagramas
 
-![Diagrama de Caso de Usos](https://drive.google.com/file/d/1sBj7Ieu7ncQAE4nl1Xw6B8mT8LYknRTC/view?usp=sharing)
-![Diagrama de Contexto](https://drive.google.com/file/d/1pMJWz9qRKneVRJSj0gv71Z-XsiB8GJJf/view?usp=sharing)
-![Diagrama de Clases](https://drive.google.com/file/d/1Z88wNJrOeqjyY4O3ezXQ0IL_veIPv-SN/view?usp=sharing)
+![Diagrama de Caso de Usos](img/casouso.png)
+![Diagrama de Contexto](img/contexto.jpg)
+![Diagrama de Clases](img/dcw.png)
 
 ## Capturas de pantalla
 
-![Captura de pantalla 1](https://drive.google.com/file/d/1DF0FiOrRi2smWznxcS8q81DTuaWwPwOP/view?usp=drive_link)
+![Captura de pantalla 1](img/Captura.png)
 
 ## Tecnologías utilizadas
 

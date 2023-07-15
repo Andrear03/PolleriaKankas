@@ -1,54 +1,52 @@
-# Kankas - Pollería
+## Kankas - Poultry
 
-![Logo de Kankas](https://drive.google.com/file/d/1nJEyg-z-wMD8-ElcT2USXJM4l0X9WiXy/view?usp=sharing)
+## Project Description
 
-## Descripción del proyecto
+Design and implement a system that helps the poultry store to avoid wasting inputs, avoiding loss of profits and making the process more productive.  Design and implement a system that is responsible for optimizing the tasks of inputs and outputs and inventory of products for the warehouse manager, optimizing the tasks of the manager whose functions have to manage users, suppliers and decision making regarding the reports generated and to optimize the tasks of the kitchen area as it enters the system to request all missing products. Saving the intervention of a staff that is an intermediary between these actions in the Kankas poultry.
 
-Diseñar e implementar el sistema que ayuda a la Pollería a no desperdiciar insumos evitando perder ganancias y haciendo más productivo el proceso.  Diseñar e implementar un sistema que se encargue de optimizar las tareas de entradas y salidas e inventario de los productos para el encargado del almacén, optimizando las tareas del gerente cuyas funciones tiene que gestionar los usuarios, proveedores y la toma de decisiones con respecto a los informes generados y a optimizar las tareas del área de cocina ya que ingresa al sistema a solicitar todos los productos faltantes. Ahorrando la intervención de un personal que sea intermediario entre estas acciones en la pollería Kankas”.
+## Functionalities
 
-## Funcionalidades
+- CRUD of the use cases
+- Order submission.
+- Double step verification.
+- Warehouse statistics.
 
-- Menú completo de platos de pollo asado y acompañamientos.
-- Sistema de pedidos en línea.
-- Opciones de entrega y recogida en tienda.
-- Catálogo de promociones y ofertas especiales.
+## Diagrams
 
-## Diagramas
+![Use Case Diagram](img/casouso.png)
+![Context Diagram](img/context.jpg)
+![Class Diagram](img/dcw.png)
 
-![Diagrama de Caso de Usos](https://drive.google.com/file/d/1sBj7Ieu7ncQAE4nl1Xw6B8mT8LYknRTC/view?usp=sharing)
-![Diagrama de Contexto](https://drive.google.com/file/d/1pMJWz9qRKneVRJSj0gv71Z-XsiB8GJJf/view?usp=sharing)
-![Diagrama de Clases](https://drive.google.com/file/d/1Z88wNJrOeqjyY4O3ezXQ0IL_veIPv-SN/view?usp=sharing)
+## Screenshots
 
-## Capturas de pantalla
+![Screenshot 1](img/Capture.png)
 
-![Captura de pantalla 1](https://drive.google.com/file/d/1DF0FiOrRi2smWznxcS8q81DTuaWwPwOP/view?usp=drive_link)
+## Technologies used
 
-## Tecnologías utilizadas
+- HTML, CSS and JSP
+- Database = mysql 
 
-- HTML, CSS y JSP
-- Base de datos = mysql 
+## Installation
 
-## Instalación
+1. Clone this repository: `git clone https://github.com/Andrear03/PolleriaKankas.git`.
+2. Place the project in your Apache Netbeans IDE 14
+3. Install the dependencies and place the libraries.
+4. Open the `index.jsp` file to run the project.
 
-1. Clona este repositorio: `git clone https://github.com/Andrear03/PolleriaKankas.git`
-2. Coloca el proyecto en tu Apache Netbeans IDE 14
-3. Instala las dependencias y coloca las librerias
-4. Abre el archivo `index.jsp` para correr el proyecto.
+## Contributions
 
-## Contribuciones
+Contributions are welcome! If you want to improve this project, follow the steps below:
 
-¡Las contribuciones son bienvenidas! Si deseas mejorar este proyecto, sigue los pasos a continuación:
+1. Make a fork of this repository.
+2. Create a new branch: `git checkout -b enhancement-name`.
+3. Make the changes and save the files.
+4. Commit your changes: `git commit -m "Enhancement: Description of changes"`.
+5. Push to the branch: `git push origin upgrade-name`.
+6. Open a pull request on this repository.
 
-1. Haz un fork de este repositorio.
-2. Crea una nueva rama: `git checkout -b mejora-nombre`.
-3. Realiza los cambios y guarda los archivos.
-4. Realiza un commit con tus cambios: `git commit -m "Mejora: Descripción de los cambios"`.
-5. Haz push a la rama: `git push origin mejora-nombre`.
-6. Abre un pull request en este repositorio.
+## Contact
 
-## Contacto
-
-Si tienes alguna pregunta o sugerencia sobre el proyecto, no dudes en ponerte en contacto:
+If you have any questions or suggestions about the project, feel free to contact me:
 
 - Email: arandareyes.03@gmail.com
 
